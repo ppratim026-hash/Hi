@@ -1,0 +1,6 @@
+{
+  "name": "Maya AI",
+  "description": "Voice-to-voice AI assistant with 100% background microphone, phone control, multi-personality, echo isolation, and smart routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
